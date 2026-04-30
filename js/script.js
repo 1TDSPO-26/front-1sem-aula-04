@@ -24,7 +24,6 @@ const base = 10
 console.log(`O resultado é: ${base*altura}`);
 
 
-0 === "0"
-console.log(typeof 0)
-0 == "0"
-console.log(typeof 0)
+console.log(typeof 0 === "0")
+
+console.log(typeof 0 == "0")
