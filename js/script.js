@@ -7,7 +7,7 @@
 const nome = "Alexandre";
 let idade = 18;
 let cidade = "São Paulo";
-let height = 1.81;
+let height = 1.82;
 
 console.log(`Olá! Meu nome é ${nome}, tenho ${idade} anos e atualmente moro em ${cidade}`);
 
